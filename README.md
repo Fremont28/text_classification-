@@ -1,2 +1,3 @@
 # text_classification-
-Text classification and word tokenization 
+
+Code for text and image classification in Python 
