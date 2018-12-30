@@ -1,2 +1,2 @@
 # text_classification-
-Image and text classifiers 
+Text classification and word tokenization 
